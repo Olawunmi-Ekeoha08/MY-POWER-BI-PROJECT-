@@ -22,6 +22,7 @@ In transforming the data on Power Bi.
 - After which i replaced the null with zero.
 - Added custom column ( bonus rate * salary) named it as Annual Bonus.
 - Added custom column (salary + annual bonus) named it as Total pay.
+- Added a conditional column to get salary band as was asked in the case scenario.
     - This was done because of the case scenario questions given.
 
 
@@ -32,4 +33,18 @@ In visualization ,I took some steps in visualizing.
     2. I used column stacked chart to visualize gender distribution by region 
     3. I used pie chart to visualize the overall gender distribution.
     4. I used scatter plot to visualize the gender gap
-         - 
+       a. I used scatter plot becasuse i wanted to visualize and identigy the gap in the distribution of salary.
+
+
+
+
+
+
+
+
+
+#### CHALLENGES I FACED WITH MY VISUALIZATION
+- When trying to change my salary band to whole number, it kept returning error which affected my visualization to get minimun salary requirement, so i left it in text and number. I would really love to get a correction on this.
+- I faced a major challenge in creating a new measure to get some results according to the case scenario given, it kept returnimg my Employee table as not being found. I could not find the problem and how to solve.
+- Time was fast spent and the project deadline was fast apporoaching, i couldnt start all over again becasue of the time frame.
+# I just hope I will meet the cut off mark for this project.
