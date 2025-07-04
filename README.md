@@ -17,5 +17,19 @@ In transforming the data on Power Bi.
 - Added a new column for both tables ,(bonus table and emp data ) using custom column in other to get results
 - Named the custom column - Department Rating for both tables respectively.
 - After which I merged as new with the unique identifier which is the Department Rating.
-- i renamed the column as Bonus Rate
-- filtered the column Bonus Rate and checked only the values. 
+- I renamed the column as Bonus Rate
+- Filtered the column Bonus Rate and checked only the values.
+- After which i replaced the null with zero.
+- Added custom column ( bonus rate * salary) named it as Annual Bonus.
+- Added custom column (salary + annual bonus) named it as Total pay.
+    - This was done because of the case scenario questions given.
+
+
+  #### VISUALIZATION 
+In visualization ,I took some steps in visualizing.
+
+    1. I used bar chart to solve count of employee by gender.
+    2. I used column stacked chart to visualize gender distribution by region 
+    3. I used pie chart to visualize the overall gender distribution.
+    4. I used scatter plot to visualize the gender gap
+         - 
