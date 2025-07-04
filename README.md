@@ -34,17 +34,14 @@ In visualization ,I took some steps in visualizing.
     3. I used pie chart to visualize the overall gender distribution.
     4. I used scatter plot to visualize the gender gap
        a. I used scatter plot becasuse i wanted to visualize and identigy the gap in the distribution of salary.
-
-
-
-
-
-
-
+    5. I used clustedred column to get my perfomeance rating by gender, I couldn't get avearge so i completed it without average.
 
 
 #### CHALLENGES I FACED WITH MY VISUALIZATION
 - When trying to change my salary band to whole number, it kept returning error which affected my visualization to get minimun salary requirement, so i left it in text and number. I would really love to get a correction on this.
 - I faced a major challenge in creating a new measure to get some results according to the case scenario given, it kept returnimg my Employee table as not being found. I could not find the problem and how to solve.
 - Time was fast spent and the project deadline was fast apporoaching, i couldnt start all over again becasue of the time frame.
+#### This is the result i could get for my power bi project [MY POWER-BI PROJECT, DOWNLOAD HERE](https://drive.google.com/file/d/1BeZAXGrKUXKh8LUmQ8Ka_uA-ltQupLJc/view?usp=drive_link)
+
+
 # I just hope I will meet the cut off mark for this project.
