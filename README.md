@@ -43,5 +43,4 @@ In visualization ,I took some steps in visualizing.
 - Time was fast spent and the project deadline was fast apporoaching, i couldnt start all over again becasue of the time frame.
 #### This is the result i could get for my power bi project [MY POWER-BI PROJECT, DOWNLOAD HERE](https://drive.google.com/file/d/1BeZAXGrKUXKh8LUmQ8Ka_uA-ltQupLJc/view?usp=drive_link)
 
-
 # I just hope I will meet the cut off mark for this project.
